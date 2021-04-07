@@ -1,0 +1,4 @@
+- 👋 Oi, eu sou @PHSebastiao
+- 👀 Sou interessado em desenvolvimento web
+- 🌱 Atualmente aprendendo NET CORE e Angular
+- 📫 Entre em contato no email phsilva.sebastiao@gmail.com
