@@ -1,4 +1,4 @@
 - 👋 Oi, eu sou [@PHSebastiao](https://github.com/PHSebastiao)
-- 👀 Sou interessado em desenvolvimento web
-- 🌱 Atualmente aprendendo NET CORE e Angular
+- 👀 Sou um desenvolvedor FullStack (primariamente web) em [IATec](https://iatec.com/pt/)
+- 🌱 Atualmente aprendendo Typescript
 - 📫 Entre em contato no email phsilva.sebastiao@gmail.com
